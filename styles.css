@@ -1,4 +1,5 @@
 :root {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 100%;
     --nav-bg-color: red;
     --nav-text-color: white;
@@ -15,7 +16,6 @@ nav {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    
     
     color: var(--nav-text-color);
     background-color: var(--nav-bg-color);
@@ -47,7 +47,6 @@ spam {
     flex-wrap: wrap;
     gap: 10px;
     margin-top: 10px;
-    
 }
 
 img {
