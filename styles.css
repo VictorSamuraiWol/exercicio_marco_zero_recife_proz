@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&family=Luckiest+Guy&display=swap');
+
 :root {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Luckiest Guy', cursive;
     font-size: 100%;
     --nav-bg-color: red;
     --nav-text-color: white;
@@ -35,6 +37,7 @@ ul {
 
 h1{
     color: blueviolet;
+    
 }
 
 spam {
@@ -59,7 +62,10 @@ img {
 }
 
 p {
-    text-indent: 45px ;   
+    text-indent: 45px;
+    font-family: 'Inclusive Sans', sans-serif;
+    text-align: justify;
+    padding: 5px;
 }
 
 .button {
