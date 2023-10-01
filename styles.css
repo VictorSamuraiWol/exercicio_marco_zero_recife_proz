@@ -9,6 +9,7 @@
 
 body {
     margin: 0 auto;
+    background-color: rgb(141, 141, 255);
 }
 
 nav {
@@ -47,6 +48,10 @@ spam {
     flex-wrap: wrap;
     gap: 10px;
     margin-top: 10px;
+}
+
+figcaption {
+    line-height: 15px;
 }
 
 img {
